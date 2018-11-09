@@ -1,0 +1,30 @@
+.App {
+  width: 1000px;
+  height: 1000px;
+  margin: 0 auto;
+  background-color: #555555;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.red {
+  background-color:  orangered;
+  color: #ffffff;
+}
+.orange {
+  background-color:  orange;
+  color: #ffffff;
+}
+
+.App-child {
+  width: 900px;
+  height: 700px;
+  
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.green {
+  background-color: green;
+  color: #ffffff;
+}
